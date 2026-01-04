@@ -11,7 +11,7 @@ Ukazuje dovednosti, příběh a kontaktní sekci — s animacemi a hover efekty.
 - AOS.js — animace při scrollování
 
 ## ▶️ Spuštění
-Stačí naklonovat a otevřít soubor:
+Github pages
 
 
 Není potřeba žádný build.
@@ -21,4 +21,5 @@ Není potřeba žádný build.
 - moderní „glass“ navigace
 - responzivní grid karet
 - zvýraznění elementů na hover
+
 
