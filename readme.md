@@ -1,4 +1,4 @@
-# Samurai — One-Page vizitka
+# Samuraj — One-Page vizitka
 
 ## 🧾 Popis
 Jednostránkový moderní web inspirovaný samurajskou filosofií.  
@@ -21,5 +21,6 @@ Není potřeba žádný build.
 - moderní „glass“ navigace
 - responzivní grid karet
 - zvýraznění elementů na hover
+
 
 
